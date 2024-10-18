@@ -1,0 +1,8 @@
+Errors cont.
+In NLP we are always dealing with these kinds of 
+errors.
+Reducing the error rate for an application often 
+involves two antagonistic efforts: 
+◦ Increasing accuracy or precision (minimizing false 
+positives)
+◦ Increasing coverage or recall (minimizing false negatives)
